@@ -1,5 +1,5 @@
 {
-  "name": "qa-shared-locale",
+  "name": "automation-locale",
   "version": "0.0.1",
   "keywords": ["util", "functional", "client", "browser", "locale", "language"],
   "contributors": ["LToronto"],
@@ -7,7 +7,7 @@
   "description": "Locale helper",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fs-eng/qa-shared-locale.git"
+    "url": "https://github.com/IntelligentSigma/automation-locale.git"
   },
   "dependencies": {
   },

@@ -1,2 +1,2 @@
 # automation-locale
-A helper for Localization or Locale testing
+local helper for automation tests
